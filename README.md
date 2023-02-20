@@ -1,6 +1,10 @@
 # dict-link
 لۇغەتلەر تىزىملىكى
 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ - - - - DO NOT FORGET TO EDIT THE URL BEFORE ACCECC THE SITES. - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 yghur - English (uy-en,en-uy)
 https://yghur-dictionary.com/ This is a free online dictionary that allows you to search for yghur words and phrases and get English translations.
 
